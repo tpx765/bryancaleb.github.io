@@ -1,87 +1,146 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="200.000000pt" height="200.000000pt" viewBox="0 0 200.000000 200.000000"
- preserveAspectRatio="xMidYMid meet">
 
-<g transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M922 1735 l-112 -75 0 -80 0 -79 -55 -33 -54 -33 -1 -67 c0 -54 3
--68 15 -68 12 0 15 13 15 59 l0 60 55 33 54 33 1 81 0 81 100 67 100 66 0 -99
-c0 -98 0 -100 30 -124 21 -18 30 -35 30 -56 0 -21 5 -31 15 -31 11 0 15 11 15
-38 0 31 -6 43 -30 60 l-30 23 0 109 c0 98 -2 110 -18 110 -9 0 -68 -34 -130
--75z"/>
-<path d="M990 1655 c0 -8 5 -15 10 -15 6 0 10 7 10 15 0 8 -4 15 -10 15 -5 0
--10 -7 -10 -15z"/>
-<path d="M990 1595 c0 -8 5 -15 10 -15 6 0 10 7 10 15 0 8 -4 15 -10 15 -5 0
--10 -7 -10 -15z"/>
-<path d="M990 1540 c0 -5 5 -10 10 -10 6 0 10 5 10 10 0 6 -4 10 -10 10 -5 0
--10 -4 -10 -10z"/>
-<path d="M990 1485 c0 -8 5 -15 10 -15 6 0 10 7 10 15 0 8 -4 15 -10 15 -5 0
--10 -7 -10 -15z"/>
-<path d="M1040 1485 c0 -8 7 -15 15 -15 8 0 15 7 15 15 0 8 -7 15 -15 15 -8 0
--15 -7 -15 -15z"/>
-<path d="M990 1425 c0 -8 5 -15 10 -15 6 0 10 7 10 15 0 8 -4 15 -10 15 -5 0
--10 -7 -10 -15z"/>
-<path d="M1040 1425 c0 -8 7 -15 15 -15 8 0 15 7 15 15 0 8 -7 15 -15 15 -8 0
--15 -7 -15 -15z"/>
-<path d="M1100 1410 c0 -27 -3 -30 -30 -30 l-30 0 0 -200 0 -200 -155 0 c-166
-0 -176 3 -130 46 18 16 25 34 25 58 0 34 -42 162 -59 179 -13 13 -28 -13 -56
--96 -28 -86 -26 -119 11 -144 42 -27 30 -43 -31 -43 -42 0 -55 -3 -55 -15 0
--13 52 -15 410 -15 226 0 410 4 410 9 0 19 -23 71 -31 71 -5 0 -21 14 -36 30
--19 21 -35 30 -58 30 -31 0 -65 -25 -65 -47 0 -6 -7 -13 -15 -17 -8 -3 -15
--15 -15 -26 0 -18 -6 -20 -60 -20 l-60 0 0 185 0 185 100 0 100 0 0 -110 c0
--91 3 -110 15 -110 13 0 15 20 15 124 l0 125 -27 3 c-22 2 -29 9 -31 31 -3 27
--4 27 -73 27 l-69 0 0 -30z m118 -12 c-3 -7 -23 -14 -46 -16 -33 -2 -42 0 -42
-12 0 12 11 16 46 16 32 0 44 -4 42 -12z m-464 -294 c4 -19 1 -36 -8 -49 -15
--19 -15 -19 -16 8 0 17 -5 27 -15 27 -10 0 -15 -10 -15 -26 0 -23 -2 -25 -16
--13 -19 15 -14 63 12 125 l17 39 17 -41 c10 -22 21 -54 24 -70z m560 -50 c9
--8 16 -22 16 -30 0 -8 9 -14 20 -14 11 0 20 -7 20 -15 0 -12 -15 -15 -75 -15
--60 0 -75 3 -75 15 0 8 3 15 8 15 4 0 15 14 24 30 19 33 39 38 62 14z"/>
-<path d="M990 1365 c0 -8 5 -15 10 -15 6 0 10 7 10 15 0 8 -4 15 -10 15 -5 0
--10 -7 -10 -15z"/>
-<path d="M990 1310 c0 -5 5 -10 10 -10 6 0 10 5 10 10 0 6 -4 10 -10 10 -5 0
--10 -4 -10 -10z"/>
-<path d="M1100 1310 c0 -6 30 -10 70 -10 40 0 70 4 70 10 0 6 -30 10 -70 10
--40 0 -70 -4 -70 -10z"/>
-<path d="M990 1255 c0 -8 5 -15 10 -15 6 0 10 7 10 15 0 8 -4 15 -10 15 -5 0
--10 -7 -10 -15z"/>
-<path d="M1100 1255 c0 -12 14 -15 70 -15 56 0 70 3 70 15 0 12 -14 15 -70 15
--56 0 -70 -3 -70 -15z"/>
-<path d="M990 1195 c0 -8 5 -15 10 -15 6 0 10 7 10 15 0 8 -4 15 -10 15 -5 0
--10 -7 -10 -15z"/>
-<path d="M1100 1195 c0 -12 14 -15 70 -15 56 0 70 3 70 15 0 12 -14 15 -70 15
--56 0 -70 -3 -70 -15z"/>
-<path d="M990 1140 c0 -5 5 -10 10 -10 6 0 10 5 10 10 0 6 -4 10 -10 10 -5 0
--10 -4 -10 -10z"/>
-<path d="M1100 1140 c0 -6 30 -10 70 -10 40 0 70 4 70 10 0 6 -30 10 -70 10
--40 0 -70 -4 -70 -10z"/>
-<path d="M990 1080 c0 -5 5 -10 10 -10 6 0 10 5 10 10 0 6 -4 10 -10 10 -5 0
--10 -4 -10 -10z"/>
-<path d="M1100 1080 c0 -5 23 -10 50 -10 28 0 50 5 50 10 0 6 -22 10 -50 10
--27 0 -50 -4 -50 -10z"/>
-<path d="M990 1025 c0 -8 5 -15 10 -15 6 0 10 7 10 15 0 8 -4 15 -10 15 -5 0
--10 -7 -10 -15z"/>
-<path d="M1100 1026 c0 -11 10 -16 31 -16 38 0 35 24 -4 28 -19 2 -27 -1 -27
--12z"/>
-<path d="M620 645 l0 -155 26 0 c25 0 26 2 21 41 -5 40 -5 41 20 34 47 -11 63
-16 63 112 0 46 -5 93 -10 104 -12 21 -50 25 -68 7 -9 -9 -12 -9 -12 0 0 7 -9
-12 -20 12 -19 0 -20 -7 -20 -155z m85 35 c0 -69 -3 -85 -15 -85 -12 0 -16 18
--18 88 -3 81 -1 88 15 85 16 -3 18 -15 18 -88z"/>
-<path d="M806 778 c-11 -16 -16 -46 -16 -100 0 -65 3 -81 20 -98 34 -34 80
--20 95 28 5 17 2 22 -13 22 -12 0 -22 -9 -25 -22 -5 -18 -8 -19 -22 -8 -20 17
--18 161 3 168 7 2 16 -5 19 -17 3 -12 13 -21 25 -21 17 0 19 4 13 27 -8 33
--21 43 -57 43 -17 0 -33 -9 -42 -22z"/>
-<path d="M956 778 c-11 -16 -16 -46 -16 -100 0 -65 3 -81 20 -98 40 -40 86
--18 101 50 12 54 3 135 -18 155 -22 23 -69 19 -87 -7z m62 -88 c4 -88 -2 -108
--23 -90 -11 9 -15 33 -15 85 0 39 3 75 7 79 18 18 28 -7 31 -74z"/>
-<path d="M1110 679 c0 -109 2 -120 18 -117 15 3 17 17 20 106 2 63 7 102 13
-102 6 0 13 -9 16 -20 8 -32 33 -24 33 10 0 35 -23 49 -51 31 -12 -7 -19 -7
--19 -1 0 5 -7 10 -15 10 -13 0 -15 -20 -15 -121z"/>
-<path d="M1240 645 c0 -148 1 -155 20 -155 17 0 20 7 20 40 0 38 1 39 29 34
-22 -5 32 -1 45 17 22 32 22 165 0 197 -16 24 -43 29 -61 11 -8 -8 -13 -8 -17
-0 -4 6 -14 11 -22 11 -12 0 -14 -27 -14 -155z m88 46 c3 -79 -9 -111 -34 -90
--10 8 -14 35 -14 84 0 75 4 88 30 83 11 -3 16 -20 18 -77z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 52.916665 52.916666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="p-corp.svg"
+   inkscape:export-filename="p-corp.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title134">quack{PCORP_CYBERSEC_LOGO}</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="true"
+     showguides="true"
+     inkscape:zoom="1"
+     inkscape:cx="-71.5"
+     inkscape:cy="87.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="-19.823599,45.128823"
+       orientation="1,0"
+       id="guide837"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0.35399284,46.544795"
+       orientation="1,0"
+       id="guide889"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="26.19547,56.722089"
+       orientation="1,0"
+       id="guide940"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="-65.331102,75.820099"
+       orientation="1,0"
+       id="guide996"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="11.764605,29.137146"
+       orientation="0.70710678,-0.70710678"
+       id="guide998"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="80.349746,61.927853"
+       orientation="0,-1"
+       id="guide1002"
+       inkscape:locked="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1082" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:3.05262;stroke-linecap:square;paint-order:markers fill stroke"
+       id="rect238"
+       width="52.916668"
+       height="52.916668"
+       x="0"
+       y="2.7755576e-17" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:31.4239px;font-family:'robot mono';-inkscape-font-specification:'robot mono Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:1.09111;stroke-linecap:square;paint-order:markers fill stroke"
+       x="3.1132958"
+       y="45.129974"
+       id="text781"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan779"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.4239px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Bold';stroke-width:1.09111"
+         x="3.1132963"
+         y="45.129974">P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'robot mono';-inkscape-font-specification:'robot mono Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:1.32292;stroke-linecap:square;paint-order:markers fill stroke"
+       x="28.020746"
+       y="49.170624"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:monospace;-inkscape-font-specification:'monospace Bold';stroke-width:1.32292"
+         x="28.020746"
+         y="49.170624">P<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+   id="tspan936"> </tspan>CORP</tspan></text>
+  </g>
+  <metadata
+     id="metadata132">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Drian Co</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title>quack{PCORP_CYBERSEC_LOGO}</dc:title>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>P Corp CyberSec</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Maxuel</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="pcorp.ga" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
